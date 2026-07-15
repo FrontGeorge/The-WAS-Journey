@@ -7,8 +7,7 @@
 <h1 align="center">The WAS Journey</h1>
 
 <p align="center">
-Building deep understanding of Web Accessibility.
-</p>
+Building deep understanding of Web Accessibility to become a better Frontend Engineer and confidently pass the IAAP WAS certification.</p>
 
 
 > **Una guía abierta para comprender la accesibilidad web desde los fundamentos de la plataforma.**
@@ -123,8 +122,6 @@ El objetivo es construir conocimiento paso a paso, sin avanzar hasta comprender 
 ├── .gitignore
 ├── assets/
 │   ├── logo.svg
-│   ├── banner.png
-│   └── diagrams/
 └── docs/
     ├── 00-manifiesto.md
     ├── 01-conceptos-fundamentales.md
@@ -158,6 +155,9 @@ Te recomendamos comenzar por:
 📖 **docs/00-manifiesto.md**
 
 En él se describen la filosofía, la metodología y los principios que guían todo el proyecto.
+
+Las recomendaciones del handbook no se incorporan hasta haber sido contrastadas con la especificación, fuentes de referencia y validación práctica.
+
 
 ---
 
