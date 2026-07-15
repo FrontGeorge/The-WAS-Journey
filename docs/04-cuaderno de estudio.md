@@ -158,6 +158,13 @@ Las preguntas se agruparán por temática.
 - Renderizado.
 - Accesibilidad.
 
+
+## Preguntas de examen
+
+Estas preguntas están diseñadas siguiendo el estilo de razonamiento utilizado en la certificación IAAP WAS.
+
+Su objetivo no es memorizar respuestas, sino aprender a identificar la mejor respuesta entre varias opciones plausibles.
+
 ---
 
 # Nuestro objetivo
