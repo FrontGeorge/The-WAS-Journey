@@ -28,6 +28,11 @@
 | Widget | Widget | Componente interactivo de una interfaz. |
 | WAI-ARIA | WAI-ARIA | Especificación que amplía la información semántica cuando HTML no es suficiente. |
 | WCAG | Web Content Accessibility Guidelines | Recomendaciones internacionales sobre accesibilidad web. |
+| Native Control | Control nativo | Elemento HTML que proporciona semántica y comportamiento de forma integrada. |
+| Built-in Behavior | Comportamiento integrado | Funcionalidad proporcionada por el navegador sin necesidad de JavaScript adicional. |
+| Live Region | Región activa | Región del árbol de accesibilidad cuyos cambios pueden anunciarse automáticamente por las tecnologías de asistencia. |
+| Accessibility Tree | Árbol de accesibilidad | Representación accesible del DOM generada por el navegador y expuesta mediante la Accessibility API. |
+| Form-associated Element | Elemento asociado a un formulario | Elemento HTML capaz de asociarse a un formulario y participar en su comportamiento nativo. |
 
 ---
 
