@@ -122,6 +122,30 @@ Las barreras de accesibilidad no son únicamente técnicas. También pueden debe
 
 ---
 
+## Pregunta 6
+
+Una persona intenta visualizar un vídeo formativo desde una estación de tren muy ruidosa y activa los subtítulos.
+
+¿Qué demuestra mejor esta situación?
+
+**A.** Los subtítulos son una funcionalidad pensada únicamente para personas sordas.
+
+**B.** La accesibilidad beneficia únicamente a personas con discapacidad permanente.
+
+**C.** Una misma solución de accesibilidad puede beneficiar a personas con diferentes capacidades y en distintos contextos de uso.
+
+**D.** Los subtítulos son una característica de usabilidad, pero no de accesibilidad.
+
+✅ **Respuesta correcta:** **C**
+
+### Explicación
+
+Las soluciones de accesibilidad suelen beneficiar a perfiles muy diversos.
+
+Los subtítulos ayudan, entre otros, a personas sordas, personas con pérdida auditiva temporal, usuarios que no dominan el idioma, personas en entornos ruidosos o usuarios que no pueden reproducir el sonido.
+
+---
+
 # Resumen
 
 Antes de continuar con el siguiente capítulo deberías recordar estas ideas:
