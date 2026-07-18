@@ -73,6 +73,28 @@ El objetivo sigue siendo el mismo:
 
 Eliminar barreras.
 
+## Accesibilidad, discapacidad y contexto de uso
+
+Un error frecuente es pensar que la accesibilidad está dirigida exclusivamente a las personas con discapacidad.
+
+En realidad, la accesibilidad busca eliminar las barreras que impiden a las personas alcanzar sus objetivos al utilizar un producto.
+
+Esas barreras pueden aparecer por diferentes motivos:
+
+- Discapacidades permanentes.
+- Limitaciones temporales.
+- Limitaciones situacionales derivadas del contexto de uso.
+
+Por ejemplo, una persona puede tener dificultades para leer una pantalla porque:
+
+- tiene baja visión;
+- acaba de salir de una revisión oftalmológica;
+- está utilizando el dispositivo bajo la luz directa del sol.
+
+Aunque el origen de la limitación sea diferente, la barrera es la misma.
+
+Por este motivo, la accesibilidad moderna pone el foco en las capacidades necesarias para utilizar un producto y en las barreras que pueden impedirlo, más que en clasificar a los usuarios por su discapacidad.
+
 ---
 
 ## Ideas clave
