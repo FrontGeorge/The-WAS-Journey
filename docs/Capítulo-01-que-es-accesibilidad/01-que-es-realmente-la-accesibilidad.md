@@ -95,6 +95,19 @@ Aunque el origen de la limitación sea diferente, la barrera es la misma.
 
 Por este motivo, la accesibilidad moderna pone el foco en las capacidades necesarias para utilizar un producto y en las barreras que pueden impedirlo, más que en clasificar a los usuarios por su discapacidad.
 
+## ¿Quién crea las barreras?
+
+Las barreras de accesibilidad no las crean las personas ni sus capacidades.
+
+Las barreras aparecen cuando un producto no tiene en cuenta la diversidad de capacidades, necesidades y contextos de uso de sus usuarios.
+
+Esto significa que las barreras pueden originarse en diferentes disciplinas:
+
+- **Diseño**, por ejemplo mediante un contraste insuficiente o una navegación confusa.
+- **Desarrollo**, mediante un HTML no semántico, una navegación inaccesible con teclado o un uso incorrecto de ARIA.
+- **Contenido**, utilizando un lenguaje innecesariamente complejo, instrucciones ambiguas o una estructura difícil de comprender.
+
+Por este motivo, la accesibilidad es una responsabilidad compartida de todo el equipo de producto y no únicamente del equipo de desarrollo.
 ---
 
 ## Ideas clave
