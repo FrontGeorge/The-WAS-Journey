@@ -144,6 +144,56 @@ Las soluciones de accesibilidad suelen beneficiar a perfiles muy diversos.
 
 Los subtítulos ayudan, entre otros, a personas sordas, personas con pérdida auditiva temporal, usuarios que no dominan el idioma, personas en entornos ruidosos o usuarios que no pueden reproducir el sonido.
 
+## Pregunta 7
+
+¿Quién crea las barreras de accesibilidad en un producto digital?
+
+A. Las personas con discapacidad.
+
+B. Las tecnologías de asistencia.
+
+C. El diseño, el desarrollo y el contenido cuando no tienen en cuenta la diversidad de capacidades de los usuarios.
+
+D. Los navegadores.
+
+✅ **Respuesta correcta:** C
+
+### Explicación
+
+Las barreras no son una característica de las personas, sino del producto cuando este no contempla la diversidad de sus usuarios. Por ello, la accesibilidad es una responsabilidad compartida entre diseño, contenido, desarrollo y el resto del equipo.
+
+### Errores habituales
+
+- Pensar que las barreras las provoca la discapacidad.
+- Asociar la accesibilidad únicamente al desarrollo.
+
+## Pregunta 8
+
+Una empresa afirma:
+
+*"No tenemos usuarios con discapacidad, por lo que no necesitamos invertir en accesibilidad."*
+
+¿Cuál es la afirmación más correcta?
+
+A. Es correcta, porque la accesibilidad solo beneficia a personas con discapacidad.
+
+B. Es incorrecta, porque no puede asumir que no existan usuarios con discapacidad y, además, la accesibilidad beneficia a muchas más personas.
+
+C. Solo dependerá de si la legislación obliga a cumplir las WCAG.
+
+D. Es una decisión exclusivamente técnica.
+
+✅ **Respuesta correcta:** B
+
+### Explicación
+
+Una organización no puede asumir que conoce todas las capacidades de sus usuarios. Además, la accesibilidad también beneficia a personas con limitaciones temporales o situacionales y mejora la experiencia de uso de forma general.
+
+### Errores habituales
+
+- Reducir la accesibilidad únicamente a la discapacidad.
+- Justificar la accesibilidad únicamente por motivos legales.
+
 ---
 
 # Resumen
